@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 This is vamsi krishna alias
+
 
 <!--
 **vamsikrish12/vamsikrish12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
