@@ -1,4 +1,4 @@
-## Hi there 👋 This is vamsi krishna alias vamsikrish
+## Hi there 👋 This is Vamsi Krishna alias vamsikrish
 
 
 <!--
